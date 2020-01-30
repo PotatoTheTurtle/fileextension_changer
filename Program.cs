@@ -32,6 +32,13 @@ namespace Application
 
         private void runDirs(string path, string extension)
         {
+            string[] rootfileEntries = Directory.GetFiles(path);
+            foreach(string rootfile in rootfileEntries)
+            {
+                File.Move(rootfile, Path.ChangeExtension(rootfile, extension));
+            }
+
+
             string[] directoryEntries = Directory.GetDirectories(path);
 
             foreach (string dirpath in directoryEntries)
@@ -47,6 +54,7 @@ namespace Application
                     }
                     runDirs(dirpath, extension);
                 }
+                Console.WriteLine(dirpath);
             }
         }
     }
