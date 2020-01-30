@@ -1,0 +1,7 @@
+D:\__GIT\testin_csharp\testing_school\testing_school\bin\Debug\testing_school.exe.config
+D:\__GIT\testin_csharp\testing_school\testing_school\bin\Debug\testing_school.exe
+D:\__GIT\testin_csharp\testing_school\testing_school\bin\Debug\testing_school.pdb
+D:\__GIT\testin_csharp\testing_school\testing_school\obj\Debug\testing_school.csprojAssemblyReference.cache
+D:\__GIT\testin_csharp\testing_school\testing_school\obj\Debug\testing_school.csproj.CoreCompileInputs.cache
+D:\__GIT\testin_csharp\testing_school\testing_school\obj\Debug\testing_school.exe
+D:\__GIT\testin_csharp\testing_school\testing_school\obj\Debug\testing_school.pdb
