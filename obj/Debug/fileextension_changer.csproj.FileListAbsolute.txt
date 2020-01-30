@@ -1,0 +1,7 @@
+D:\__GIT\fileextension_changer\fileextension_changer\bin\Debug\testing_school.exe.config
+D:\__GIT\fileextension_changer\fileextension_changer\bin\Debug\testing_school.exe
+D:\__GIT\fileextension_changer\fileextension_changer\bin\Debug\testing_school.pdb
+D:\__GIT\fileextension_changer\fileextension_changer\obj\Debug\fileextension_changer.csprojAssemblyReference.cache
+D:\__GIT\fileextension_changer\fileextension_changer\obj\Debug\fileextension_changer.csproj.CoreCompileInputs.cache
+D:\__GIT\fileextension_changer\fileextension_changer\obj\Debug\testing_school.exe
+D:\__GIT\fileextension_changer\fileextension_changer\obj\Debug\testing_school.pdb
